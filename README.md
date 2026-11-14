@@ -3,5 +3,4 @@ Este repositorio contiene un script básico en Python que simula la lógica de u
 ##🚀Instrucciones de Ejecución
 1. Clona este repositorio o descarga el archivo fuente:
 **bash
-git clone [https://github.com/Andres-Valenzuela19/simulador-firewall-python.git](https://github.com/TU-
-USUARIO/simulador-firewall-python.git)
+git clone [https://github.com/Andres-Valenzuela19/simulador-firewall-python.git](https://github.com/Andres-Valenzuela19/simulador-firewall-python.git)
